@@ -1,0 +1,11 @@
+NIM,Nama,Nilai
+1001,Andi Saputra,85
+1002,Budi Santoso,90
+1003,Citra Lestari,80
+1004,Dina Aprilia,75
+1005,Eka Putri,65
+1006,Fajar Ramadhan,95
+1007,Gita Permata,55
+1008,Hendra Wijaya,70
+1009,Indah Sari,88
+1010,Joko Pratama,60
